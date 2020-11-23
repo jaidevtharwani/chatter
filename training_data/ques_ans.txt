@@ -1,0 +1,35 @@
+﻿What is promo mix modelling? 
+Market Mix Modeling (MMM) is a technique which helps in quantifying the impact of several marketing inputs on sales or Market Share. The purpose of using MMM is to understand how much each marketing input contributes to sales, and how much to spend on each marketing input.
+What is return on investment? 
+Return on Investment (ROI) is a performance measure used to evaluate the efficiency of an investment or compare the efficiency of a number of different investments. ROI tries to directly measure the amount of return on a particular investment, relative to the investment’s cost.
+what is mean absolute percentage error? 
+The mean absolute percentage error, also known as mean absolute percentage deviation, is a measure of prediction accuracy of a forecasting method in statistics, for example in trend estimation, also used as a loss function for regression problems in machine learning.
+How MMM helps businesses? 
+MMM helps in the ascertaining the effectiveness of each marketing input in terms of Return on Investment by using regression techniques. https://towardsdatascience.com/market-mix-modeling-mmm-101-3d094df976f9
+Why is mape preferred over mae or rmse? 
+MAPE has a clear intrepretation of error as mae but in the terms of percentage which are easy for people to understand. https://www.dataquest.io/blog/understanding-regression-error-metrics/
+what is a linear model and why it is widely used ? 
+Linear model is used to find the linear relatonship of independent variable which is qualitative with the dependent variable and it is widely preferred as the output can be intrepreted by the human. https://www.sciencedirect.com/topics/mathematics/linear-models
+what is log linear model? 
+Loglinear models are a class of probability models commonly used to analyze relationships involving discrete variables. https://www.sciencedirect.com/topics/medicine-and-dentistry/loglinear-model 
+what is mixed effects models? 
+Mixed-effects regression models are a powerful tool for linear regression models when your data contains global and group-level trends  and provide a framework for smoothing global and group level trends. https://towardsdatascience.com/using-mixed-effects-models-for-linear-regression-7b7941d249b
+what is fixed effects models? 
+A fixed effects model is a statistical model in which the model parameters are fixed or non-random quantities. https://en.wikipedia.org/wiki/Fixed_effects_model
+What is ROI? 
+Its full form is return in investments and its profitability measure that evaluates the performance of a business by dividing net profit by net worth. https://www.entrepreneur.com/encyclopedia/return-on-investment-roi
+What is Advertising Adstock Theory? 
+AAT theory suggests that there is a delay of this trip from point A to point B. So, the speed of getting consumers from point A to point B is not immediate but in fact, it has a lag. https://medium.com/@Marko_Mi/advertising-adstock-theory-85cc9e26ea0e
+What is DW statistics? 
+The Durbin Watson Test is a measure of autocorrelation (also called serial correlation) in residuals from regression analysis. https://www.statisticshowto.datasciencecentral.com/durbin-watson-test-coefficient/
+what is vif and its significance? 
+Variance Inflation Factor(VIF) detects multicollinearity in regression analysis.as its presence can adversely affect your regression results. The VIF estimates how much the variance of a regression coefficient is inflated due to multicollinearity in the model. https://www.statisticshowto.datasciencecentral.com/variance-inflation-factor/
+What is r square? 
+It is the percentage of the response variable variation that is explained by a linear model. https://blog.minitab.com/blog/adventures-in-statistics-2/regression-analysis-how-do-i-interpret-r-squared-and-assess-the-goodness-of-fit
+What is marginal roi? 
+Marginal ROI models focus on the predicted increase in revenue from an increase in spending, so what your next unit of budget will deliver. https://econsultancy.com/how-marginal-roi-tells-you-where-to-spend-your-digital-marketing-budget/
+Hi? 
+Hello
+What is Ad stocking?
+Promotion typically has carry-over effects beyond when the promotion takes place. Adstocking helps us identify the optimum carry over of marketing activities estimated and modelled to measure short-term and long-term impact * Short term: during the time of the promotion * Long term: delayed/lagged effect, Build awareness over time among physicians, Repeat Rx Typical Adstock methods use either forward weighting, simple exponential decay or negative exponential decay methods"
+
