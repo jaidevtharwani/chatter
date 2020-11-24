@@ -32,4 +32,16 @@ Hi?
 Hello
 What is Ad stocking?
 Promotion typically has carry-over effects beyond when the promotion takes place. Adstocking helps us identify the optimum carry over of marketing activities estimated and modelled to measure short-term and long-term impact * Short term: during the time of the promotion * Long term: delayed/lagged effect, Build awareness over time among physicians, Repeat Rx Typical Adstock methods use either forward weighting, simple exponential decay or negative exponential decay methods"
+What is Fractional Root?
+This is a transformation applied for diminishing returns measurement
+What is incremental contribution?
+Incremental sales refers to that proportion of sales which is driven by promotional investment
+What is baseline sales?
+Baseline refers to the sales from carry over sales from previous years, competitor activity and brand perceptions/preference, seasonality and trend etc.
+What are the benchmarks for baseline and incremental sales?
+"There are number of factors that influence baseline and incremental sales. Lower baseline (50-60%) is seen for products for products that are in their growth phase or highly competitive markets. As the brand matures and establishes itself, the baseline is seen to increase closer to 80-90%"
+How do I find a good model?
+Estimation of best possible econometric relationship is guided by model metrics such as R-sqaure and MAPE (average error). A value of R-square closer to 1 indicates a better model, while a MAPE closer to zero indicates low error and hence a better model.
+What is response curve?
+A response curve is a graphical expression of the relationship between marketing activity and returns. Response curves starts from origin. Therefore, zero promotion would lead to zero impactable sales
 
